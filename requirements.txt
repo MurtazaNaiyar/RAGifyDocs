@@ -10,4 +10,6 @@ langchain_community
 pypdf
 faiss-cpu
 chroma
+PyMuPDF
+structlog
 -e .
